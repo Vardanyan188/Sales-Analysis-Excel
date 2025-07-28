@@ -1,0 +1,501 @@
+Date,Country,Region,Sales Channel,Product Category,Product Name,Units Sold,Unit Price,Revenue,Cost,Profit
+2024-04-12,Armenia,Europe,Wholesale,Books,Comics,72,421.07,30317.04,16814.03,13503.01
+2024-03-15,France,Europe,Retail,Books,Comics,53,679.09,35991.77,28482.26,7509.51
+2024-02-07,Germany,Europe,Online,Food,Bread,58,369.71,21443.18,13963.39,7479.79
+2024-02-18,France,Europe,Retail,Home,Lamp,15,321.97,4829.55,3741.99,1087.56
+2024-02-20,Armenia,Europe,Wholesale,Food,Bread,51,477.81,24368.31,16026.42,8341.89
+2024-01-18,Armenia,Europe,Retail,Electronics,Smartphone,9,16.1,144.9,84.16,60.74
+2024-04-01,UK,Europe,Online,Food,Fruit,8,28.9,231.2,189.18,42.02
+2024-06-12,Germany,Europe,Retail,Food,Cheese,134,149.52,20035.68,13998.83,6036.85
+2024-07-09,Germany,Europe,Retail,Clothing,Jeans,14,510.45,7146.3,4389.9,2756.4
+2024-07-08,Canada,North America,Retail,Books,Novel,111,580.97,64487.67,40296.0,24191.67
+2024-07-06,Armenia,Europe,Online,Books,Novel,15,119.86,1797.9,908.79,889.11
+2024-01-09,Canada,North America,Wholesale,Electronics,Tablet,81,499.38,40449.78,31411.74,9038.04
+2024-05-02,Brazil,South America,Retail,Clothing,Jacket,41,640.9,26276.9,20956.18,5320.72
+2024-01-12,Germany,Europe,Wholesale,Electronics,Tablet,62,231.0,14322.0,10818.3,3503.7
+2024-04-13,India,Asia,Online,Home,Lamp,101,680.34,68714.34,54773.56,13940.78
+2024-01-05,Germany,Europe,Wholesale,Home,Chair,15,82.07,1231.05,804.82,426.23
+2024-06-27,UK,Europe,Retail,Electronics,Laptop,143,530.11,75805.73,43973.34,31832.39
+2024-06-08,UK,Europe,Retail,Home,Lamp,28,651.14,18231.92,14272.72,3959.2
+2024-07-03,Brazil,South America,Retail,Food,Cheese,75,230.42,17281.5,9379.2,7902.3
+2024-07-08,USA,North America,Wholesale,Electronics,Laptop,121,573.52,69395.92,55603.88,13792.04
+2024-04-12,India,Asia,Retail,Home,Chair,51,192.24,9804.24,5739.83,4064.41
+2024-02-28,India,Asia,Retail,Electronics,Laptop,52,176.58,9182.16,6828.83,2353.33
+2024-05-10,USA,North America,Online,Books,Novel,113,683.75,77263.75,49747.27,27516.48
+2024-03-27,Brazil,South America,Wholesale,Electronics,Laptop,126,105.7,13318.2,8940.62,4377.58
+2024-06-08,India,Asia,Wholesale,Food,Fruit,123,173.3,21315.9,16649.83,4666.07
+2024-03-09,Armenia,Europe,Retail,Clothing,Jeans,139,572.42,79566.38,62015.69,17550.69
+2024-05-03,France,Europe,Wholesale,Books,Comics,147,499.25,73389.75,57488.05,15901.7
+2024-05-27,Canada,North America,Online,Food,Bread,128,364.84,46699.52,37041.99,9657.53
+2024-01-11,Armenia,Europe,Retail,Electronics,Laptop,42,184.27,7739.34,5657.41,2081.93
+2024-03-30,Canada,North America,Retail,Electronics,Laptop,129,69.71,8992.59,7320.2,1672.39
+2024-02-06,Canada,North America,Online,Home,Lamp,99,491.75,48683.25,38768.0,9915.25
+2024-05-27,Canada,North America,Online,Electronics,Tablet,104,426.47,44352.88,22319.21,22033.67
+2024-04-08,USA,North America,Retail,Books,Biography,82,342.5,28085.0,18450.4,9634.6
+2024-07-07,USA,North America,Online,Food,Bread,142,231.15,32823.3,24987.46,7835.84
+2024-05-07,Canada,North America,Online,Home,Chair,115,447.25,51433.75,30225.64,21208.11
+2024-06-06,India,Asia,Retail,Books,Comics,8,443.64,3549.12,2761.87,787.25
+2024-01-30,USA,North America,Online,Food,Fruit,61,351.94,21468.34,15032.16,6436.18
+2024-07-10,USA,North America,Online,Electronics,Smartphone,46,640.83,29478.18,18558.15,10920.03
+2024-02-06,Canada,North America,Retail,Books,Novel,95,674.72,64098.4,51185.99,12912.41
+2024-07-09,Brazil,South America,Online,Books,Comics,67,122.8,8227.6,5717.2,2510.4
+2024-02-23,Germany,Europe,Retail,Home,Table,32,471.44,15086.08,9436.74,5649.34
+2024-05-06,France,Europe,Retail,Clothing,Jeans,17,594.83,10112.11,5539.59,4572.52
+2024-06-24,UK,Europe,Wholesale,Books,Biography,26,568.03,14768.78,11866.35,2902.43
+2024-01-13,Armenia,Europe,Online,Clothing,Jacket,36,559.82,20153.52,14661.43,5492.09
+2024-05-23,India,Asia,Wholesale,Food,Fruit,143,266.03,38042.29,20272.5,17769.79
+2024-07-09,India,Asia,Retail,Home,Chair,63,687.38,43304.94,34367.96,8936.98
+2024-02-27,India,Asia,Retail,Electronics,Smartphone,15,255.33,3829.95,2085.3,1744.65
+2024-01-08,Brazil,South America,Wholesale,Food,Bread,6,40.92,245.52,168.42,77.1
+2024-02-16,France,Europe,Retail,Food,Bread,124,501.64,62203.36,31995.77,30207.59
+2024-04-29,UK,Europe,Wholesale,Home,Table,90,22.62,2035.8,1703.82,331.98
+2024-01-23,UK,Europe,Online,Electronics,Laptop,58,641.07,37182.06,24347.68,12834.38
+2024-04-05,India,Asia,Online,Electronics,Laptop,129,668.63,86253.27,65402.74,20850.53
+2024-07-09,Brazil,South America,Wholesale,Books,Comics,76,398.4,30278.4,16820.45,13457.95
+2024-03-26,USA,North America,Online,Books,Biography,47,33.31,1565.57,1251.53,314.04
+2024-07-15,Armenia,Europe,Online,Clothing,Jeans,39,245.68,9581.52,6349.06,3232.46
+2024-04-10,UK,Europe,Retail,Clothing,Jeans,69,621.24,42865.56,25346.95,17518.61
+2024-05-17,Germany,Europe,Online,Home,Table,69,480.35,33144.15,23716.23,9427.92
+2024-03-20,UK,Europe,Wholesale,Clothing,T-Shirt,84,404.95,34015.8,21629.27,12386.53
+2024-05-03,USA,North America,Wholesale,Electronics,Laptop,101,440.03,44443.03,34983.3,9459.73
+2024-06-16,Germany,Europe,Online,Home,Chair,12,75.04,900.48,455.98,444.5
+2024-02-04,UK,Europe,Online,Electronics,Smartphone,90,241.73,21755.7,12862.91,8892.79
+2024-05-14,Armenia,Europe,Retail,Clothing,T-Shirt,75,614.84,46113.0,34920.22,11192.78
+2024-01-21,Brazil,South America,Online,Electronics,Smartphone,99,291.77,28885.23,18203.65,10681.58
+2024-04-05,Canada,North America,Wholesale,Books,Novel,13,519.24,6750.12,3937.9,2812.22
+2024-01-30,USA,North America,Online,Electronics,Smartphone,86,211.86,18219.96,9747.58,8472.38
+2024-04-09,Armenia,Europe,Wholesale,Books,Novel,76,251.66,19126.16,15968.05,3158.11
+2024-05-07,Armenia,Europe,Wholesale,Home,Table,144,316.67,45600.48,27479.93,18120.55
+2024-01-25,Armenia,Europe,Online,Home,Chair,144,553.78,79744.32,42417.77,37326.55
+2024-02-11,Germany,Europe,Wholesale,Clothing,T-Shirt,75,86.36,6477.0,3562.65,2914.35
+2024-03-14,Germany,Europe,Online,Food,Bread,7,301.13,2107.91,1218.16,889.75
+2024-05-16,Germany,Europe,Retail,Home,Table,5,361.76,1808.8,1052.05,756.75
+2024-05-15,Canada,North America,Retail,Books,Novel,145,663.34,96184.3,81285.39,14898.91
+2024-05-11,Armenia,Europe,Wholesale,Food,Fruit,108,393.09,42453.72,27530.29,14923.43
+2024-03-30,France,Europe,Online,Home,Chair,126,44.13,5560.38,3011.43,2548.95
+2024-03-01,UK,Europe,Online,Electronics,Tablet,131,410.44,53767.64,44990.63,8777.01
+2024-07-09,Armenia,Europe,Online,Electronics,Laptop,117,674.44,78909.48,39790.43,39119.05
+2024-06-08,Brazil,South America,Online,Books,Comics,80,371.75,29740.0,25205.77,4534.23
+2024-06-12,France,Europe,Retail,Home,Chair,47,442.43,20794.21,15460.75,5333.46
+2024-06-07,USA,North America,Retail,Books,Biography,3,631.3,1893.9,977.07,916.83
+2024-01-12,Germany,Europe,Retail,Food,Bread,92,454.56,41819.52,26592.78,15226.74
+2024-02-29,Germany,Europe,Online,Food,Bread,145,199.44,28918.8,18621.46,10297.34
+2024-06-05,Brazil,South America,Retail,Home,Chair,82,294.56,24153.92,16990.03,7163.89
+2024-06-01,Germany,Europe,Retail,Clothing,Jeans,109,119.56,13032.04,8391.84,4640.2
+2024-04-27,USA,North America,Online,Clothing,Jacket,11,417.92,4597.12,2911.41,1685.71
+2024-03-26,France,Europe,Online,Home,Chair,98,30.59,2997.82,1639.35,1358.47
+2024-05-28,Canada,North America,Online,Food,Bread,95,526.19,49988.05,40970.61,9017.44
+2024-01-23,Brazil,South America,Retail,Books,Novel,83,176.91,14683.53,9657.22,5026.31
+2024-04-19,USA,North America,Online,Home,Chair,4,163.91,655.64,481.96,173.68
+2024-02-01,Germany,Europe,Wholesale,Food,Fruit,118,582.8,68770.4,41793.29,26977.11
+2024-07-11,India,Asia,Retail,Food,Bread,57,415.02,23656.14,15802.68,7853.46
+2024-05-30,UK,Europe,Retail,Books,Novel,66,564.51,37257.66,30406.08,6851.58
+2024-07-10,Armenia,Europe,Retail,Clothing,Jeans,98,447.47,43852.06,30441.46,13410.6
+2024-06-27,UK,Europe,Retail,Clothing,T-Shirt,79,280.6,22167.4,15910.22,6257.18
+2024-02-20,USA,North America,Retail,Books,Novel,145,347.02,50317.9,29706.96,20610.94
+2024-03-09,Germany,Europe,Online,Books,Biography,126,445.21,56096.46,32763.19,23333.27
+2024-04-24,UK,Europe,Wholesale,Electronics,Tablet,80,110.57,8845.6,4852.6,3993.0
+2024-01-08,Armenia,Europe,Wholesale,Food,Bread,96,334.4,32102.4,23551.77,8550.63
+2024-06-26,Brazil,South America,Wholesale,Clothing,Jacket,21,122.41,2570.61,1535.96,1034.65
+2024-03-01,India,Asia,Online,Books,Biography,133,325.24,43256.92,24752.34,18504.58
+2024-02-03,USA,North America,Wholesale,Clothing,T-Shirt,73,69.14,5047.22,3373.57,1673.65
+2024-02-25,India,Asia,Online,Home,Lamp,81,197.43,15991.83,12508.34,3483.49
+2024-04-22,France,Europe,Wholesale,Books,Comics,127,647.21,82195.67,47890.55,34305.12
+2024-01-28,UK,Europe,Retail,Clothing,T-Shirt,14,107.68,1507.52,824.0,683.52
+2024-01-03,UK,Europe,Online,Home,Lamp,18,315.95,5687.1,3903.72,1783.38
+2024-01-15,Canada,North America,Online,Electronics,Tablet,28,18.95,530.6,325.11,205.49
+2024-03-26,Germany,Europe,Online,Food,Bread,13,417.55,5428.15,4004.27,1423.88
+2024-03-07,USA,North America,Wholesale,Books,Biography,111,517.09,57396.99,39902.95,17494.04
+2024-06-16,USA,North America,Retail,Food,Fruit,101,257.34,25991.34,18871.56,7119.78
+2024-07-05,Canada,North America,Retail,Home,Chair,121,169.87,20554.27,11009.36,9544.91
+2024-07-16,India,Asia,Wholesale,Food,Cheese,62,565.08,35034.96,18199.92,16835.04
+2024-05-16,UK,Europe,Wholesale,Home,Lamp,40,489.39,19575.6,16620.46,2955.14
+2024-01-06,Germany,Europe,Wholesale,Food,Fruit,134,682.67,91477.78,61451.3,30026.48
+2024-06-27,India,Asia,Wholesale,Electronics,Smartphone,136,336.25,45730.0,36286.93,9443.07
+2024-05-12,India,Asia,Wholesale,Clothing,Jeans,20,173.47,3469.4,1874.15,1595.25
+2024-03-30,India,Asia,Wholesale,Books,Biography,100,227.85,22785.0,16128.57,6656.43
+2024-05-13,Germany,Europe,Wholesale,Clothing,T-Shirt,138,693.02,95636.76,58608.49,37028.27
+2024-05-09,Armenia,Europe,Online,Electronics,Tablet,73,533.36,38935.28,27584.62,11350.66
+2024-05-31,India,Asia,Wholesale,Home,Table,49,596.26,29216.74,22236.6,6980.14
+2024-06-26,India,Asia,Online,Books,Comics,76,268.56,20410.56,16823.55,3587.01
+2024-03-04,India,Asia,Wholesale,Food,Bread,105,526.6,55293.0,43119.58,12173.42
+2024-02-04,Brazil,South America,Wholesale,Books,Novel,123,445.46,54791.58,44805.99,9985.59
+2024-03-29,Brazil,South America,Retail,Clothing,T-Shirt,40,319.1,12764.0,9570.75,3193.25
+2024-02-01,France,Europe,Online,Books,Biography,23,309.93,7128.39,5004.99,2123.4
+2024-05-24,USA,North America,Online,Clothing,Jeans,104,164.17,17073.68,11780.79,5292.89
+2024-07-16,India,Asia,Wholesale,Home,Lamp,42,101.79,4275.18,3325.7,949.48
+2024-06-05,USA,North America,Wholesale,Food,Cheese,38,527.92,20060.96,14994.43,5066.53
+2024-06-03,UK,Europe,Retail,Electronics,Smartphone,66,534.91,35304.06,28485.72,6818.34
+2024-04-06,India,Asia,Wholesale,Books,Comics,109,93.6,10202.4,6519.85,3682.55
+2024-06-05,Canada,North America,Wholesale,Books,Novel,68,506.97,34473.96,25924.86,8549.1
+2024-04-04,France,Europe,Wholesale,Home,Table,27,245.26,6622.02,3731.9,2890.12
+2024-03-14,Canada,North America,Wholesale,Clothing,Jeans,140,638.74,89423.6,49065.89,40357.71
+2024-04-20,Canada,North America,Online,Food,Fruit,120,21.0,2520.0,1834.51,685.49
+2024-04-01,UK,Europe,Retail,Clothing,T-Shirt,51,516.83,26358.33,21799.09,4559.24
+2024-01-11,UK,Europe,Online,Electronics,Smartphone,149,120.04,17885.96,10109.36,7776.6
+2024-02-26,USA,North America,Online,Home,Lamp,53,237.96,12611.88,9849.86,2762.02
+2024-04-26,Germany,Europe,Wholesale,Electronics,Tablet,25,605.15,15128.75,12451.51,2677.24
+2024-05-14,Germany,Europe,Wholesale,Home,Table,17,413.01,7021.17,3591.3,3429.87
+2024-06-27,India,Asia,Retail,Electronics,Tablet,88,221.47,19489.36,15068.66,4420.7
+2024-05-29,Germany,Europe,Online,Food,Cheese,49,128.73,6307.77,5275.66,1032.11
+2024-06-25,Armenia,Europe,Online,Food,Fruit,104,354.03,36819.12,26082.1,10737.02
+2024-05-20,India,Asia,Wholesale,Home,Lamp,62,147.57,9149.34,5185.3,3964.04
+2024-06-21,Brazil,South America,Online,Home,Table,78,501.27,39099.06,26770.22,12328.84
+2024-04-22,Germany,Europe,Online,Home,Lamp,8,603.94,4831.52,4015.67,815.85
+2024-02-01,Germany,Europe,Retail,Clothing,Jacket,124,561.52,69628.48,58670.77,10957.71
+2024-02-01,Germany,Europe,Online,Books,Novel,67,165.6,11095.2,8156.77,2938.43
+2024-03-12,India,Asia,Online,Electronics,Tablet,67,621.79,41659.93,28947.51,12712.42
+2024-01-08,Germany,Europe,Retail,Home,Table,144,281.04,40469.76,29697.92,10771.84
+2024-05-21,UK,Europe,Retail,Clothing,Jacket,7,516.45,3615.15,2880.71,734.44
+2024-04-21,Brazil,South America,Retail,Home,Chair,2,637.88,1275.76,916.85,358.91
+2024-01-11,Germany,Europe,Wholesale,Clothing,Jacket,119,191.3,22764.7,16355.35,6409.35
+2024-06-14,Canada,North America,Online,Electronics,Smartphone,99,664.18,65753.82,50450.41,15303.41
+2024-01-24,USA,North America,Wholesale,Clothing,Jeans,128,131.56,16839.68,11277.07,5562.61
+2024-01-14,USA,North America,Online,Clothing,T-Shirt,103,156.53,16122.59,11701.28,4421.31
+2024-01-04,Germany,Europe,Online,Clothing,T-Shirt,98,194.25,19036.5,9640.78,9395.72
+2024-05-25,Canada,North America,Online,Books,Biography,34,390.15,13265.1,9656.95,3608.15
+2024-05-01,Armenia,Europe,Retail,Books,Biography,27,630.51,17023.77,13718.8,3304.97
+2024-06-16,Germany,Europe,Online,Food,Bread,53,126.88,6724.64,5514.5,1210.14
+2024-06-02,Brazil,South America,Retail,Food,Cheese,46,37.64,1731.44,966.49,764.95
+2024-04-16,USA,North America,Wholesale,Home,Chair,26,52.43,1363.18,1080.97,282.21
+2024-01-11,Canada,North America,Wholesale,Food,Bread,39,429.23,16739.97,13931.96,2808.01
+2024-02-24,UK,Europe,Retail,Books,Novel,36,380.19,13686.84,7619.53,6067.31
+2024-03-21,India,Asia,Wholesale,Home,Chair,73,57.22,4177.06,3153.12,1023.94
+2024-03-01,France,Europe,Wholesale,Clothing,T-Shirt,35,574.28,20099.8,15673.73,4426.07
+2024-06-20,France,Europe,Online,Clothing,Jacket,44,566.16,24911.04,20843.93,4067.11
+2024-01-17,Germany,Europe,Online,Electronics,Tablet,47,65.26,3067.22,2562.23,504.99
+2024-03-23,Canada,North America,Wholesale,Books,Novel,118,447.88,52849.84,44563.08,8286.76
+2024-03-29,Armenia,Europe,Online,Home,Table,109,470.59,51294.31,26440.06,24854.25
+2024-01-16,UK,Europe,Retail,Electronics,Tablet,86,641.26,55148.36,28229.4,26918.96
+2024-04-26,UK,Europe,Retail,Electronics,Tablet,59,661.27,39014.93,25982.97,13031.96
+2024-04-25,UK,Europe,Wholesale,Home,Table,103,30.72,3164.16,2242.42,921.74
+2024-04-17,Armenia,Europe,Wholesale,Books,Biography,37,373.53,13820.61,9043.67,4776.94
+2024-04-17,UK,Europe,Retail,Electronics,Laptop,141,439.99,62038.59,50256.98,11781.61
+2024-06-18,Armenia,Europe,Wholesale,Clothing,Jacket,34,19.78,672.52,542.15,130.37
+2024-05-20,Germany,Europe,Wholesale,Home,Lamp,46,248.74,11442.04,8793.39,2648.65
+2024-03-02,Brazil,South America,Wholesale,Food,Bread,121,538.95,65212.95,42141.81,23071.14
+2024-04-12,Armenia,Europe,Retail,Books,Novel,3,329.78,989.34,597.51,391.83
+2024-03-08,Germany,Europe,Online,Books,Novel,73,81.08,5918.84,3770.72,2148.12
+2024-07-14,Armenia,Europe,Online,Home,Table,61,184.99,11284.39,7966.71,3317.68
+2024-02-08,Canada,North America,Online,Home,Table,52,50.17,2608.84,1671.1,937.74
+2024-04-02,UK,Europe,Online,Books,Comics,110,165.32,18185.2,10216.17,7969.03
+2024-06-17,USA,North America,Retail,Clothing,Jacket,5,45.2,226.0,189.66,36.34
+2024-06-25,USA,North America,Online,Home,Table,61,185.86,11337.46,7713.29,3624.17
+2024-03-22,India,Asia,Wholesale,Electronics,Tablet,13,160.55,2087.15,1435.84,651.31
+2024-03-13,Armenia,Europe,Wholesale,Books,Biography,105,276.86,29070.3,17312.4,11757.9
+2024-01-29,USA,North America,Retail,Home,Chair,76,29.62,2251.12,1384.82,866.3
+2024-01-25,Brazil,South America,Retail,Home,Lamp,124,264.02,32738.48,19345.62,13392.86
+2024-05-12,Canada,North America,Retail,Clothing,Jeans,37,158.03,5847.11,4321.84,1525.27
+2024-07-15,Brazil,South America,Online,Electronics,Smartphone,62,416.72,25836.64,20375.76,5460.88
+2024-02-25,Canada,North America,Online,Clothing,Jacket,33,615.65,20316.45,15828.53,4487.92
+2024-06-16,Armenia,Europe,Wholesale,Electronics,Tablet,48,497.31,23870.88,18928.53,4942.35
+2024-03-29,Brazil,South America,Wholesale,Clothing,Jacket,7,617.74,4324.18,3617.01,707.17
+2024-01-31,UK,Europe,Wholesale,Clothing,Jeans,39,116.73,4552.47,3579.55,972.92
+2024-03-17,Brazil,South America,Retail,Food,Fruit,13,433.76,5638.88,4755.92,882.96
+2024-01-17,Canada,North America,Wholesale,Clothing,T-Shirt,70,201.92,14134.4,7158.36,6976.04
+2024-03-03,Armenia,Europe,Retail,Food,Fruit,37,76.24,2820.88,2335.77,485.11
+2024-04-05,Armenia,Europe,Online,Clothing,Jacket,12,51.81,621.72,437.54,184.18
+2024-07-11,India,Asia,Retail,Clothing,Jacket,50,693.15,34657.5,25529.35,9128.15
+2024-06-12,France,Europe,Wholesale,Home,Chair,29,20.38,591.02,362.45,228.57
+2024-03-19,Canada,North America,Retail,Home,Lamp,26,115.46,3001.96,1993.27,1008.69
+2024-01-04,USA,North America,Online,Home,Chair,39,371.28,14479.92,11425.7,3054.22
+2024-03-15,Armenia,Europe,Retail,Clothing,Jacket,84,459.89,38630.76,23010.06,15620.7
+2024-03-21,India,Asia,Online,Food,Bread,47,296.71,13945.37,10089.25,3856.12
+2024-01-06,France,Europe,Wholesale,Electronics,Laptop,1,227.92,227.92,171.75,56.17
+2024-06-10,Brazil,South America,Online,Home,Chair,24,261.13,6267.12,5029.52,1237.6
+2024-01-27,Canada,North America,Online,Food,Cheese,145,68.36,9912.2,5489.18,4423.02
+2024-01-27,India,Asia,Wholesale,Clothing,Jacket,93,96.22,8948.46,4576.1,4372.36
+2024-02-29,Germany,Europe,Wholesale,Home,Table,17,427.08,7260.36,4259.21,3001.15
+2024-01-09,India,Asia,Retail,Electronics,Tablet,117,415.23,48581.91,31657.74,16924.17
+2024-03-04,Brazil,South America,Retail,Electronics,Laptop,64,279.9,17913.6,15067.93,2845.67
+2024-06-14,Canada,North America,Online,Home,Chair,33,667.09,22013.97,18001.63,4012.34
+2024-01-11,India,Asia,Online,Home,Chair,76,690.73,52495.48,28865.87,23629.61
+2024-03-20,India,Asia,Retail,Food,Bread,97,364.81,35386.57,18781.54,16605.03
+2024-06-06,USA,North America,Retail,Books,Biography,103,97.24,10015.72,6997.38,3018.34
+2024-06-22,Germany,Europe,Retail,Clothing,Jacket,106,121.4,12868.4,6905.17,5963.23
+2024-03-01,France,Europe,Online,Home,Table,6,433.54,2601.24,1858.67,742.57
+2024-02-10,Germany,Europe,Retail,Food,Cheese,84,240.92,20237.28,15890.09,4347.19
+2024-01-07,France,Europe,Retail,Food,Cheese,22,319.36,7025.92,5095.56,1930.36
+2024-02-10,Armenia,Europe,Wholesale,Clothing,Jeans,12,176.74,2120.88,1178.87,942.01
+2024-02-14,France,Europe,Wholesale,Clothing,Jacket,100,522.27,52227.0,42050.12,10176.88
+2024-02-22,UK,Europe,Retail,Home,Table,146,459.02,67016.92,41303.21,25713.71
+2024-02-25,USA,North America,Retail,Home,Lamp,35,158.29,5540.15,3581.37,1958.78
+2024-04-06,UK,Europe,Retail,Food,Bread,24,300.72,7217.28,4482.49,2734.79
+2024-04-17,India,Asia,Online,Food,Cheese,96,413.7,39715.2,20266.19,19449.01
+2024-04-07,Canada,North America,Wholesale,Food,Cheese,6,460.23,2761.38,2339.57,421.81
+2024-07-04,India,Asia,Online,Books,Comics,18,443.93,7990.74,6045.71,1945.03
+2024-04-08,Germany,Europe,Wholesale,Food,Cheese,42,170.09,7143.78,6000.69,1143.09
+2024-04-28,Brazil,South America,Online,Books,Biography,41,176.83,7250.03,5834.55,1415.48
+2024-04-20,India,Asia,Wholesale,Electronics,Smartphone,70,458.23,32076.1,19542.42,12533.68
+2024-01-28,Germany,Europe,Online,Home,Chair,45,169.73,7637.85,4446.27,3191.58
+2024-01-10,France,Europe,Retail,Clothing,T-Shirt,76,581.07,44161.32,28740.66,15420.66
+2024-01-20,Canada,North America,Online,Home,Chair,64,254.68,16299.52,10313.94,5985.58
+2024-04-16,Brazil,South America,Online,Books,Novel,120,564.94,67792.8,47785.38,20007.42
+2024-05-13,Armenia,Europe,Retail,Home,Chair,78,44.68,3485.04,2390.42,1094.62
+2024-01-20,Germany,Europe,Wholesale,Books,Novel,35,319.28,11174.8,9239.95,1934.85
+2024-03-09,USA,North America,Retail,Electronics,Tablet,12,108.1,1297.2,1096.55,200.65
+2024-02-12,India,Asia,Retail,Clothing,T-Shirt,29,608.2,17637.8,11626.11,6011.69
+2024-06-19,Germany,Europe,Wholesale,Food,Cheese,128,97.24,12446.72,6848.68,5598.04
+2024-06-26,Germany,Europe,Retail,Food,Fruit,85,70.26,5972.1,4391.95,1580.15
+2024-04-05,India,Asia,Retail,Books,Comics,34,464.83,15804.22,13315.39,2488.83
+2024-06-19,Germany,Europe,Online,Clothing,Jeans,26,608.89,15831.14,11077.26,4753.88
+2024-03-16,France,Europe,Online,Electronics,Smartphone,1,154.89,154.89,113.16,41.73
+2024-02-22,Canada,North America,Retail,Books,Novel,63,684.14,43100.82,27688.73,15412.09
+2024-06-24,Brazil,South America,Online,Electronics,Laptop,68,457.11,31083.48,23866.42,7217.06
+2024-05-11,India,Asia,Retail,Home,Table,82,615.13,50440.66,30820.18,19620.48
+2024-04-18,France,Europe,Retail,Electronics,Smartphone,89,233.22,20756.58,14956.63,5799.95
+2024-07-17,UK,Europe,Online,Books,Comics,49,384.25,18828.25,12342.8,6485.45
+2024-04-11,Germany,Europe,Retail,Home,Lamp,74,532.74,39422.76,26616.51,12806.25
+2024-03-25,Germany,Europe,Online,Clothing,Jeans,12,108.55,1302.6,891.39,411.21
+2024-02-13,Armenia,Europe,Retail,Home,Lamp,46,504.1,23188.6,19349.34,3839.26
+2024-01-21,UK,Europe,Wholesale,Home,Lamp,117,629.13,73608.21,43076.91,30531.3
+2024-02-20,UK,Europe,Online,Food,Bread,19,75.49,1434.31,961.07,473.24
+2024-04-26,Armenia,Europe,Wholesale,Home,Chair,35,408.75,14306.25,7601.9,6704.35
+2024-06-06,Germany,Europe,Online,Clothing,T-Shirt,132,577.11,76178.52,52019.9,24158.62
+2024-01-07,UK,Europe,Wholesale,Food,Cheese,141,133.29,18793.89,11339.24,7454.65
+2024-06-18,Brazil,South America,Wholesale,Clothing,Jeans,54,387.41,20920.14,10777.94,10142.2
+2024-04-15,UK,Europe,Wholesale,Home,Chair,118,363.05,42839.9,30319.45,12520.45
+2024-01-26,USA,North America,Online,Clothing,Jeans,125,634.59,79323.75,61038.09,18285.66
+2024-02-18,Germany,Europe,Retail,Home,Chair,19,596.57,11334.83,8331.08,3003.75
+2024-03-29,Germany,Europe,Online,Home,Table,69,121.77,8402.13,6368.02,2034.11
+2024-06-09,UK,Europe,Retail,Books,Novel,37,451.17,16693.29,11893.68,4799.61
+2024-06-08,France,Europe,Retail,Clothing,T-Shirt,77,418.16,32198.32,21697.43,10500.89
+2024-01-02,Canada,North America,Online,Home,Lamp,146,286.0,41756.0,27135.97,14620.03
+2024-06-15,USA,North America,Wholesale,Electronics,Tablet,24,94.23,2261.52,1213.17,1048.35
+2024-04-11,Germany,Europe,Online,Books,Biography,97,419.05,40647.85,26031.52,14616.33
+2024-04-06,France,Europe,Online,Electronics,Tablet,49,583.14,28573.86,20983.53,7590.33
+2024-06-20,France,Europe,Retail,Books,Biography,67,375.41,25152.47,15431.46,9721.01
+2024-01-03,India,Asia,Retail,Clothing,Jacket,102,392.66,40051.32,30267.89,9783.43
+2024-01-30,Armenia,Europe,Online,Food,Cheese,77,446.3,34365.1,26261.58,8103.52
+2024-02-24,Canada,North America,Retail,Clothing,Jeans,121,576.16,69715.36,34887.86,34827.5
+2024-05-23,Armenia,Europe,Retail,Food,Fruit,23,282.52,6497.96,3595.62,2902.34
+2024-01-05,Armenia,Europe,Online,Food,Bread,30,367.07,11012.1,7909.5,3102.6
+2024-07-18,UK,Europe,Retail,Electronics,Laptop,142,86.77,12321.34,7141.14,5180.2
+2024-03-06,USA,North America,Wholesale,Books,Biography,75,578.57,43392.75,25944.36,17448.39
+2024-06-02,Armenia,Europe,Retail,Clothing,Jacket,143,694.55,99320.65,79257.75,20062.9
+2024-01-12,UK,Europe,Retail,Electronics,Smartphone,82,441.43,36197.26,26641.41,9555.85
+2024-06-06,India,Asia,Retail,Home,Lamp,73,229.16,16728.68,8498.38,8230.3
+2024-03-31,Germany,Europe,Retail,Home,Table,20,403.26,8065.2,6665.53,1399.67
+2024-07-12,USA,North America,Online,Books,Biography,95,343.51,32633.45,23241.17,9392.28
+2024-02-23,India,Asia,Wholesale,Books,Comics,134,106.73,14301.82,8990.65,5311.17
+2024-05-15,Brazil,South America,Wholesale,Clothing,T-Shirt,68,60.58,4119.44,3179.6,939.84
+2024-05-07,Canada,North America,Wholesale,Food,Bread,78,613.89,47883.42,28596.62,19286.8
+2024-07-09,India,Asia,Retail,Books,Comics,130,456.89,59395.7,32858.22,26537.48
+2024-01-05,France,Europe,Online,Clothing,Jeans,130,341.8,44434.0,33947.08,10486.92
+2024-06-07,Canada,North America,Wholesale,Electronics,Tablet,137,103.86,14228.82,7718.92,6509.9
+2024-07-08,India,Asia,Online,Home,Lamp,4,445.07,1780.28,1032.76,747.52
+2024-04-10,UK,Europe,Retail,Food,Bread,63,555.51,34997.13,22456.94,12540.19
+2024-01-07,France,Europe,Retail,Food,Cheese,86,674.86,58037.96,34068.46,23969.5
+2024-03-02,France,Europe,Retail,Books,Biography,79,409.59,32357.61,23890.96,8466.65
+2024-04-29,UK,Europe,Online,Books,Novel,82,49.91,4092.62,2107.38,1985.24
+2024-07-06,France,Europe,Online,Books,Comics,26,93.4,2428.4,1949.11,479.29
+2024-04-21,Armenia,Europe,Online,Clothing,Jacket,42,550.59,23124.78,18782.63,4342.15
+2024-04-14,Canada,North America,Online,Electronics,Laptop,129,567.17,73164.93,38539.33,34625.6
+2024-04-06,Germany,Europe,Online,Clothing,Jeans,28,447.86,12540.08,9163.96,3376.12
+2024-07-05,India,Asia,Online,Electronics,Tablet,87,365.29,31780.23,17560.46,14219.77
+2024-06-08,Armenia,Europe,Online,Electronics,Tablet,8,33.96,271.68,143.9,127.78
+2024-02-12,USA,North America,Wholesale,Books,Comics,17,669.77,11386.09,8632.11,2753.98
+2024-02-27,UK,Europe,Wholesale,Food,Fruit,135,549.77,74218.95,46327.06,27891.89
+2024-07-04,Brazil,South America,Retail,Books,Biography,96,52.76,5064.96,3284.65,1780.31
+2024-04-20,Canada,North America,Wholesale,Food,Bread,136,539.61,73386.96,52738.24,20648.72
+2024-07-12,UK,Europe,Online,Clothing,Jacket,36,432.43,15567.48,12004.42,3563.06
+2024-06-17,USA,North America,Retail,Clothing,Jacket,114,228.94,26099.16,14193.55,11905.61
+2024-03-31,Canada,North America,Online,Clothing,Jeans,95,366.93,34858.35,24950.73,9907.62
+2024-01-11,Germany,Europe,Wholesale,Electronics,Smartphone,59,387.31,22851.29,14534.07,8317.22
+2024-04-23,India,Asia,Online,Food,Cheese,32,349.75,11192.0,5645.81,5546.19
+2024-05-28,France,Europe,Wholesale,Clothing,Jeans,39,593.33,23139.87,19012.28,4127.59
+2024-01-18,Brazil,South America,Online,Books,Biography,126,590.19,74363.94,56142.67,18221.27
+2024-05-14,UK,Europe,Retail,Food,Fruit,89,656.48,58426.72,30096.23,28330.49
+2024-01-02,Brazil,South America,Wholesale,Books,Comics,50,153.39,7669.5,5192.62,2476.88
+2024-03-28,Armenia,Europe,Wholesale,Books,Biography,97,358.31,34756.07,20997.6,13758.47
+2024-01-19,UK,Europe,Wholesale,Books,Biography,108,447.22,48299.76,37016.58,11283.18
+2024-04-20,Canada,North America,Online,Clothing,Jeans,108,509.89,55068.12,46650.05,8418.07
+2024-04-13,France,Europe,Wholesale,Clothing,Jeans,10,520.93,5209.3,4090.82,1118.48
+2024-06-03,Germany,Europe,Online,Electronics,Laptop,86,594.39,51117.54,40586.68,10530.86
+2024-01-12,USA,North America,Online,Electronics,Smartphone,121,476.47,57652.87,44086.72,13566.15
+2024-03-10,Canada,North America,Retail,Home,Chair,132,272.84,36014.88,26117.19,9897.69
+2024-05-17,Canada,North America,Online,Home,Table,54,488.45,26376.3,13217.86,13158.44
+2024-02-07,India,Asia,Online,Food,Bread,20,284.62,5692.4,4588.03,1104.37
+2024-01-14,France,Europe,Wholesale,Books,Biography,132,41.7,5504.4,3689.65,1814.75
+2024-06-06,Germany,Europe,Wholesale,Home,Lamp,49,447.36,21920.64,12103.48,9817.16
+2024-05-31,Brazil,South America,Retail,Food,Cheese,117,553.09,64711.53,44071.41,20640.12
+2024-06-24,Brazil,South America,Wholesale,Food,Cheese,113,306.64,34650.32,18399.67,16250.65
+2024-04-25,USA,North America,Wholesale,Home,Lamp,57,653.51,37250.07,27002.49,10247.58
+2024-05-24,India,Asia,Wholesale,Food,Fruit,143,289.88,41452.84,32910.69,8542.15
+2024-03-15,UK,Europe,Online,Electronics,Smartphone,61,685.85,41836.85,23338.81,18498.04
+2024-04-16,USA,North America,Online,Books,Biography,109,548.89,59829.01,31090.0,28739.01
+2024-02-04,India,Asia,Online,Clothing,Jacket,93,325.9,30308.7,20255.82,10052.88
+2024-05-28,Germany,Europe,Retail,Books,Biography,4,39.64,158.56,129.44,29.12
+2024-06-11,USA,North America,Online,Electronics,Smartphone,60,96.29,5777.4,3695.18,2082.22
+2024-03-24,Canada,North America,Retail,Electronics,Laptop,108,35.99,3886.92,1992.83,1894.09
+2024-05-14,France,Europe,Retail,Food,Cheese,80,262.99,21039.2,13677.8,7361.4
+2024-03-10,Armenia,Europe,Wholesale,Electronics,Laptop,84,435.69,36597.96,25497.71,11100.25
+2024-01-21,Armenia,Europe,Wholesale,Clothing,T-Shirt,7,65.07,455.49,265.49,190.0
+2024-06-08,Canada,North America,Wholesale,Home,Lamp,149,41.32,6156.68,3980.77,2175.91
+2024-05-07,India,Asia,Retail,Electronics,Laptop,21,183.29,3849.09,2805.84,1043.25
+2024-06-13,Canada,North America,Wholesale,Electronics,Tablet,89,663.19,59023.91,49495.96,9527.95
+2024-07-07,USA,North America,Online,Electronics,Smartphone,127,179.42,22786.34,18177.02,4609.32
+2024-02-02,USA,North America,Retail,Books,Novel,28,507.36,14206.08,7439.5,6766.58
+2024-03-26,USA,North America,Retail,Electronics,Smartphone,98,341.86,33502.28,18694.98,14807.3
+2024-01-02,India,Asia,Retail,Electronics,Smartphone,98,604.08,59199.84,39134.46,20065.38
+2024-06-15,India,Asia,Retail,Food,Fruit,59,324.17,19126.03,9910.82,9215.21
+2024-03-03,USA,North America,Wholesale,Books,Biography,68,530.94,36103.92,24615.11,11488.81
+2024-04-29,Canada,North America,Retail,Books,Comics,116,610.05,70765.8,41297.41,29468.39
+2024-06-16,Germany,Europe,Online,Food,Cheese,66,50.32,3321.12,2199.83,1121.29
+2024-07-18,Armenia,Europe,Wholesale,Electronics,Smartphone,6,263.49,1580.94,1040.41,540.53
+2024-05-02,Germany,Europe,Online,Home,Lamp,51,140.95,7188.45,4064.01,3124.44
+2024-01-08,Canada,North America,Online,Food,Bread,85,222.08,18876.8,13684.47,5192.33
+2024-05-22,Canada,North America,Retail,Clothing,Jeans,12,120.39,1444.68,1032.54,412.14
+2024-04-18,France,Europe,Wholesale,Home,Table,40,357.4,14296.0,10140.72,4155.28
+2024-01-08,Brazil,South America,Online,Food,Fruit,4,560.02,2240.08,1878.79,361.29
+2024-01-19,Canada,North America,Retail,Electronics,Tablet,119,677.15,80580.85,52072.66,28508.19
+2024-04-28,Brazil,South America,Online,Books,Biography,4,697.97,2791.88,2353.34,438.54
+2024-02-28,UK,Europe,Online,Home,Chair,131,371.54,48671.74,36590.14,12081.6
+2024-06-10,Germany,Europe,Online,Books,Comics,9,574.25,5168.25,3562.36,1605.89
+2024-02-29,Armenia,Europe,Retail,Electronics,Tablet,108,324.19,35012.52,21890.86,13121.66
+2024-05-10,Armenia,Europe,Retail,Food,Cheese,21,83.5,1753.5,930.25,823.25
+2024-06-09,Brazil,South America,Online,Home,Table,51,317.99,16217.49,12359.17,3858.32
+2024-07-03,UK,Europe,Wholesale,Electronics,Laptop,94,685.48,64435.12,46518.92,17916.2
+2024-05-04,Canada,North America,Wholesale,Clothing,Jeans,47,126.54,5947.38,4754.98,1192.4
+2024-05-03,USA,North America,Online,Home,Table,47,217.19,10207.93,5863.7,4344.23
+2024-02-26,Brazil,South America,Retail,Books,Biography,145,537.42,77925.9,60467.11,17458.79
+2024-03-17,UK,Europe,Online,Clothing,Jacket,134,471.16,63135.44,43952.0,19183.44
+2024-03-31,Germany,Europe,Retail,Food,Bread,35,291.87,10215.45,7976.47,2238.98
+2024-03-24,USA,North America,Retail,Electronics,Smartphone,102,199.63,20362.26,16298.35,4063.91
+2024-03-23,India,Asia,Retail,Home,Lamp,19,564.41,10723.79,5429.48,5294.31
+2024-03-11,India,Asia,Wholesale,Electronics,Tablet,121,200.66,24279.86,19556.55,4723.31
+2024-05-21,Canada,North America,Online,Books,Novel,30,37.06,1111.8,776.6,335.2
+2024-02-21,USA,North America,Wholesale,Home,Chair,78,521.52,40678.56,21024.71,19653.85
+2024-03-08,Armenia,Europe,Online,Clothing,T-Shirt,110,241.58,26573.8,22485.68,4088.12
+2024-07-01,Canada,North America,Online,Books,Biography,12,410.05,4920.6,4174.65,745.95
+2024-02-19,Brazil,South America,Online,Books,Novel,137,470.09,64402.33,50893.97,13508.36
+2024-03-05,Canada,North America,Wholesale,Books,Comics,76,637.92,48481.92,32121.78,16360.14
+2024-01-15,USA,North America,Online,Home,Table,21,443.76,9318.96,6589.38,2729.58
+2024-06-05,France,Europe,Wholesale,Food,Fruit,92,77.44,7124.48,4521.05,2603.43
+2024-06-21,France,Europe,Retail,Food,Cheese,91,521.8,47483.8,32155.7,15328.1
+2024-03-27,India,Asia,Online,Electronics,Smartphone,61,333.38,20336.18,10493.0,9843.18
+2024-05-15,France,Europe,Online,Food,Cheese,93,333.72,31035.96,22280.15,8755.81
+2024-05-21,France,Europe,Online,Books,Novel,49,10.33,506.17,291.9,214.27
+2024-02-12,Armenia,Europe,Retail,Food,Bread,39,562.8,21949.2,15369.2,6580.0
+2024-03-02,Germany,Europe,Retail,Home,Table,9,572.59,5153.31,3089.91,2063.4
+2024-01-17,Canada,North America,Wholesale,Books,Comics,41,25.62,1050.42,773.53,276.89
+2024-05-26,France,Europe,Retail,Books,Comics,45,279.23,12565.35,8137.82,4427.53
+2024-03-16,Canada,North America,Online,Books,Novel,12,473.85,5686.2,3433.64,2252.56
+2024-03-30,UK,Europe,Online,Food,Cheese,8,604.7,4837.6,2422.36,2415.24
+2024-06-06,Brazil,South America,Retail,Electronics,Tablet,146,84.57,12347.22,7832.38,4514.84
+2024-05-06,Armenia,Europe,Wholesale,Clothing,T-Shirt,84,630.72,52980.48,33986.13,18994.35
+2024-05-22,USA,North America,Online,Clothing,Jacket,105,454.28,47699.4,38675.33,9024.07
+2024-01-10,India,Asia,Retail,Clothing,Jacket,121,112.25,13582.25,7608.06,5974.19
+2024-07-16,France,Europe,Online,Books,Biography,131,376.11,49270.41,27086.31,22184.1
+2024-03-21,USA,North America,Wholesale,Food,Fruit,65,63.65,4137.25,2646.93,1490.32
+2024-04-10,Brazil,South America,Wholesale,Electronics,Tablet,23,572.62,13170.26,6895.75,6274.51
+2024-01-21,India,Asia,Wholesale,Home,Table,119,382.06,45465.14,36445.31,9019.83
+2024-01-30,Armenia,Europe,Wholesale,Food,Cheese,79,532.75,42087.25,22500.09,19587.16
+2024-03-15,Canada,North America,Online,Clothing,Jacket,118,495.38,58454.84,43311.63,15143.21
+2024-06-15,Germany,Europe,Wholesale,Food,Bread,56,534.53,29933.68,24884.63,5049.05
+2024-01-19,Brazil,South America,Wholesale,Clothing,Jeans,126,419.21,52820.46,28282.24,24538.22
+2024-03-04,Brazil,South America,Online,Clothing,Jeans,31,483.35,14983.85,8229.03,6754.82
+2024-03-09,India,Asia,Wholesale,Home,Lamp,45,272.02,12240.9,6287.52,5953.38
+2024-04-16,Canada,North America,Wholesale,Home,Table,50,222.68,11134.0,6140.09,4993.91
+2024-01-30,Germany,Europe,Online,Books,Biography,37,669.36,24766.32,15104.69,9661.63
+2024-03-27,India,Asia,Online,Food,Cheese,113,66.3,7491.9,5337.28,2154.62
+2024-05-05,Armenia,Europe,Retail,Electronics,Laptop,68,686.18,46660.24,31134.39,15525.85
+2024-05-20,Germany,Europe,Online,Books,Biography,123,587.79,72298.17,45162.13,27136.04
+2024-04-07,Canada,North America,Retail,Books,Comics,85,243.0,20655.0,12281.19,8373.81
+2024-02-13,France,Europe,Online,Food,Fruit,92,410.17,37735.64,32071.51,5664.13
+2024-05-20,UK,Europe,Wholesale,Clothing,Jacket,17,515.53,8764.01,5303.73,3460.28
+2024-05-31,Germany,Europe,Wholesale,Home,Chair,85,107.85,9167.25,7319.09,1848.16
+2024-04-10,Armenia,Europe,Wholesale,Home,Lamp,117,421.39,49302.63,30750.61,18552.02
+2024-02-16,Armenia,Europe,Wholesale,Books,Biography,5,556.98,2784.9,1661.24,1123.66
+2024-02-15,Germany,Europe,Online,Food,Cheese,115,326.56,37554.4,31671.34,5883.06
+2024-02-21,Canada,North America,Wholesale,Clothing,Jeans,143,426.0,60918.0,50047.62,10870.38
+2024-06-27,Brazil,South America,Wholesale,Home,Table,4,565.58,2262.32,1508.45,753.87
+2024-03-13,Canada,North America,Online,Food,Bread,81,593.64,48084.84,39072.85,9011.99
+2024-05-26,UK,Europe,Online,Home,Lamp,13,680.22,8842.86,5104.64,3738.22
+2024-04-23,Canada,North America,Wholesale,Books,Biography,67,486.31,32582.77,17824.48,14758.29
+2024-05-05,Brazil,South America,Online,Food,Cheese,35,151.44,5300.4,4426.4,874.0
+2024-02-16,France,Europe,Retail,Home,Table,113,67.42,7618.46,3815.41,3803.05
+2024-03-07,USA,North America,Online,Food,Bread,1,52.98,52.98,26.6,26.38
+2024-05-15,Brazil,South America,Wholesale,Food,Bread,1,592.92,592.92,423.8,169.12
+2024-04-13,UK,Europe,Retail,Electronics,Smartphone,128,482.75,61792.0,31425.83,30366.17
+2024-03-15,France,Europe,Online,Home,Table,34,9.23,313.82,168.0,145.82
+2024-04-11,Canada,North America,Wholesale,Clothing,T-Shirt,124,496.43,61557.32,31860.78,29696.54
+2024-07-12,Germany,Europe,Wholesale,Books,Comics,34,200.3,6810.2,5320.26,1489.94
+2024-04-29,India,Asia,Online,Home,Table,53,590.35,31288.55,21656.16,9632.39
+2024-06-06,Brazil,South America,Wholesale,Books,Novel,53,294.2,15592.6,11941.81,3650.79
+2024-01-31,USA,North America,Retail,Clothing,Jeans,52,447.78,23284.56,15931.24,7353.32
+2024-06-26,Armenia,Europe,Wholesale,Food,Bread,22,396.49,8722.78,4727.61,3995.17
+2024-02-28,UK,Europe,Wholesale,Clothing,Jacket,34,98.01,3332.34,2400.44,931.9
+2024-03-15,USA,North America,Wholesale,Food,Bread,93,37.56,3493.08,2084.18,1408.9
+2024-02-07,USA,North America,Retail,Clothing,T-Shirt,69,658.61,45444.09,24037.67,21406.42
+2024-06-04,France,Europe,Wholesale,Electronics,Laptop,147,397.66,58456.02,46957.24,11498.78
+2024-07-14,Armenia,Europe,Wholesale,Clothing,Jacket,141,298.56,42096.96,26607.8,15489.16
+2024-02-25,Armenia,Europe,Online,Home,Chair,60,444.73,26683.8,19915.45,6768.35
+2024-05-17,UK,Europe,Wholesale,Books,Novel,13,132.05,1716.65,1025.62,691.03
+2024-01-11,USA,North America,Online,Food,Fruit,94,191.93,18041.42,12022.66,6018.76
+2024-05-19,Brazil,South America,Online,Clothing,T-Shirt,48,272.66,13087.68,10509.89,2577.79
+2024-04-08,UK,Europe,Wholesale,Clothing,Jeans,105,41.39,4345.95,3340.51,1005.44
+2024-05-20,Armenia,Europe,Online,Clothing,T-Shirt,54,616.71,33302.34,19165.8,14136.54
+2024-04-18,UK,Europe,Retail,Books,Novel,137,99.94,13691.78,9968.63,3723.15
+2024-01-18,France,Europe,Online,Food,Cheese,28,500.68,14019.04,7987.0,6032.04
+2024-04-09,Brazil,South America,Wholesale,Food,Fruit,13,45.37,589.81,317.92,271.89
+2024-05-17,Brazil,South America,Online,Food,Fruit,74,15.21,1125.54,712.11,413.43
+2024-01-24,Germany,Europe,Retail,Electronics,Smartphone,131,285.98,37463.38,25693.44,11769.94
+2024-06-30,Armenia,Europe,Online,Books,Comics,122,365.73,44619.06,32890.48,11728.58
+2024-03-24,UK,Europe,Online,Food,Fruit,104,96.41,10026.64,8021.27,2005.37
+2024-06-29,Germany,Europe,Retail,Home,Lamp,134,307.68,41229.12,25406.82,15822.3
+2024-06-01,USA,North America,Online,Clothing,Jacket,126,401.6,50601.6,35362.04,15239.56
+2024-04-26,Armenia,Europe,Wholesale,Books,Comics,51,21.4,1091.4,888.94,202.46
+2024-07-18,Brazil,South America,Online,Home,Lamp,98,424.29,41580.42,27679.68,13900.74
+2024-05-03,UK,Europe,Retail,Food,Cheese,104,660.19,68659.76,53198.7,15461.06
+2024-04-05,Armenia,Europe,Wholesale,Clothing,Jacket,32,57.55,1841.6,1156.5,685.1
+2024-02-28,Germany,Europe,Retail,Food,Fruit,26,593.8,15438.8,9422.32,6016.48
+2024-03-23,France,Europe,Wholesale,Books,Novel,95,473.52,44984.4,26584.28,18400.12
+2024-02-18,UK,Europe,Retail,Food,Cheese,57,623.65,35548.05,26579.36,8968.69
+2024-01-26,USA,North America,Online,Clothing,T-Shirt,54,293.87,15868.98,9611.38,6257.6
+2024-01-15,Canada,North America,Online,Books,Biography,46,57.99,2667.54,1590.24,1077.3
+2024-03-26,India,Asia,Retail,Clothing,Jeans,46,305.81,14067.26,7249.77,6817.49
+2024-01-06,Brazil,South America,Wholesale,Food,Bread,108,591.34,63864.72,53864.62,10000.1
+2024-03-17,Germany,Europe,Retail,Home,Lamp,16,447.39,7158.24,4827.39,2330.85
+2024-07-02,Canada,North America,Retail,Home,Table,76,185.38,14088.88,9199.31,4889.57
+2024-01-19,UK,Europe,Retail,Clothing,Jeans,4,581.43,2325.72,1758.81,566.91
+2024-05-04,Germany,Europe,Wholesale,Electronics,Tablet,80,684.23,54738.4,41878.08,12860.32
+2024-05-20,Germany,Europe,Retail,Food,Fruit,65,323.47,21025.55,16262.68,4762.87
+2024-03-24,Canada,North America,Online,Clothing,Jeans,86,424.13,36475.18,28902.67,7572.51
+2024-02-05,Brazil,South America,Wholesale,Food,Cheese,104,594.39,61816.56,46677.78,15138.78
+2024-03-31,India,Asia,Online,Books,Comics,93,339.22,31547.46,23088.07,8459.39
+2024-01-10,Armenia,Europe,Wholesale,Electronics,Smartphone,34,695.31,23640.54,12191.87,11448.67
+2024-04-02,UK,Europe,Online,Electronics,Tablet,94,643.31,60471.14,50361.88,10109.26
+2024-03-31,Germany,Europe,Online,Electronics,Smartphone,116,273.49,31724.84,22234.18,9490.66
+2024-03-22,Armenia,Europe,Online,Electronics,Smartphone,58,614.76,35656.08,29987.84,5668.24
+2024-03-27,Germany,Europe,Online,Home,Lamp,105,163.94,17213.7,14368.48,2845.22
+2024-01-22,Germany,Europe,Online,Books,Novel,68,409.23,27827.64,18166.3,9661.34
+2024-06-27,Brazil,South America,Wholesale,Home,Table,147,104.95,15427.65,10036.24,5391.41
+2024-03-11,Germany,Europe,Retail,Books,Novel,132,577.1,76177.2,61788.13,14389.07
+2024-04-25,Brazil,South America,Wholesale,Books,Novel,112,599.25,67116.0,38422.34,28693.66
+2024-03-08,Germany,Europe,Online,Home,Chair,111,568.56,63110.16,50017.27,13092.89
+2024-07-07,Armenia,Europe,Retail,Clothing,T-Shirt,4,110.36,441.44,356.05,85.39
+2024-06-29,Canada,North America,Online,Food,Fruit,69,277.32,19135.08,13228.95,5906.13
+2024-06-17,USA,North America,Retail,Books,Novel,70,42.97,3007.9,2528.37,479.53
+2024-05-14,UK,Europe,Wholesale,Books,Novel,128,6.02,770.56,581.98,188.58
+2024-03-16,India,Asia,Wholesale,Home,Lamp,141,298.73,42120.93,25526.37,16594.56
+2024-07-08,Brazil,South America,Wholesale,Electronics,Tablet,126,239.19,30137.94,25612.44,4525.5
+2024-02-08,Canada,North America,Online,Books,Biography,16,59.53,952.48,657.76,294.72
+2024-02-01,France,Europe,Retail,Clothing,Jacket,9,191.85,1726.65,1243.1,483.55
+2024-01-17,Armenia,Europe,Online,Food,Fruit,123,532.51,65498.73,35099.5,30399.23
+2024-03-05,UK,Europe,Online,Electronics,Tablet,127,580.12,73675.24,54816.09,18859.15
+2024-04-05,UK,Europe,Online,Home,Table,122,511.64,62420.08,50035.43,12384.65
+2024-03-21,Germany,Europe,Online,Home,Chair,73,245.01,17885.73,11043.79,6841.94
+2024-02-21,Brazil,South America,Wholesale,Home,Chair,49,510.3,25004.7,17421.41,7583.29
+2024-07-01,Canada,North America,Wholesale,Electronics,Laptop,15,357.14,5357.1,3404.61,1952.49
+2024-07-14,Germany,Europe,Wholesale,Electronics,Tablet,116,91.45,10608.2,8265.29,2342.91
+2024-02-02,India,Asia,Wholesale,Clothing,T-Shirt,132,393.49,51940.68,35079.74,16860.94
+2024-05-13,USA,North America,Wholesale,Electronics,Laptop,27,340.17,9184.59,4973.2,4211.39
+2024-03-04,India,Asia,Wholesale,Home,Lamp,43,606.38,26074.34,14472.45,11601.89
+2024-07-14,Armenia,Europe,Wholesale,Clothing,Jeans,57,558.69,31845.33,18714.35,13130.98
+2024-07-02,UK,Europe,Wholesale,Home,Table,83,441.46,36641.18,21494.76,15146.42
+2024-03-12,Armenia,Europe,Retail,Electronics,Laptop,53,218.21,11565.13,7211.27,4353.86
+2024-05-24,India,Asia,Online,Electronics,Laptop,78,425.83,33214.74,19480.31,13734.43
+2024-02-02,India,Asia,Wholesale,Clothing,T-Shirt,123,44.33,5452.59,3439.89,2012.7
+2024-07-14,USA,North America,Wholesale,Books,Biography,79,85.75,6774.25,5238.86,1535.39
+2024-05-07,India,Asia,Retail,Books,Novel,63,305.25,19230.75,16214.0,3016.75

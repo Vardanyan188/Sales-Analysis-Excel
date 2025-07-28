@@ -8,19 +8,25 @@ This project includes sales data from various countries, products, and categorie
 - Build Excel dashboards with charts and pivot tables
 
 ## 📂 File Description
-- `sales_data.xlsx` – contains raw sales data (sheet name: Sales_data)
+- `sales_data.xlsx` – contains raw sales data and full analysis (sheet: Sales_data, KPI, Pivot_Analysis, Dashboard)
+
+## 📊 Dashboard Overview
+This Excel file includes:
+- KPIs: Total Revenue, Profit, Units Sold, Average Price
+- Pivot Table: Sales by Country and Category
+- Pivot Chart: Sales visualization by product category
+- Dashboard sheet with full summary
+
+> ⚠️ Note: This is a basic analysis. More advanced work with Power BI, SQL, and Python will be added soon.
 
 ## 🚀 Skills Used / Planned
-- Excel: Formulas, Pivot Tables, Charts
+- Excel: Formulas, Pivot Tables, Charts, Dashboards
 - Data Cleaning and KPI Calculation
 - Dashboard Design (Excel)
-
-## 📅 Upcoming Work
-- Visual dashboards for insights
-- Automated analysis with dynamic formulas
-- Future: Power BI version of the dashboard
+- Future: Power BI, PostgreSQL, Python (Pandas, Matplotlib)
 
 ---
 
 **Author**: [Vardanyan188](https://github.com/Vardanyan188)  
 Feel free to explore, comment or suggest improvements!
+
